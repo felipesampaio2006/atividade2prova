@@ -17,7 +17,7 @@ public class Atividade2prova {
                 
         x = (a+b)/PI + 2;
                 
-        
+        x = - b +(b3 * 4 (/a + (b * 2)));
     }
     
 }
